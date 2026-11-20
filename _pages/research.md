@@ -5,6 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
+## Working Papers
+ 
+- **Drake C**, Anderson D, Nagy D, Shepard M. [The Impact of Silver Loading in ACA Health Insurance Marketplaces](https://www.nber.org/papers/w35955). NBER Working Paper No. 35955. 2026.
+  
+- **Drake C**, Meiselbach MK, Nagy D, Polsky D. State Supplemental Subsidy Design in the Health Insurance Marketplaces. *Revise and resubmit, American Journal of Health Economics.*
+
 ## Peer-Reviewed Publications
 
 ### Economics Journals
