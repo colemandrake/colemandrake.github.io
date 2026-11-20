@@ -81,6 +81,4 @@ author_profile: true
 
 - Zewde N, Drake C, Biener A. [Basic Health Programs: An Alternative to Public Options?](https://www.commonwealthfund.org/publications/issue-briefs/2024/mar/basic-health-programs-alternative-to-public-options) *Commonwealth Fund*. March 2024.
 
-- Drake C. [A Review of Health Insurance Marketplace Data: Plan Offerings, Enrollment, and Networks](https://www.ashecon.org/newsletter/v2017n2i4/). *American Society of Health Economists Newsletter*. September 2017.
-
 - Abraham JM, Drake C, McCullough JS, Simon K. [Rural-Urban Differences in Insurer Participation for Marketplace-Based Coverage](https://rhrc.umn.edu/publication/rural-urban-differences-in-insurer-participation-for-marketplace-based-coverage/). *University of Minnesota Rural Health Research Center*. August 2016.
