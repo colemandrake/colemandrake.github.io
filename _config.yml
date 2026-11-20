@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : 'Health Economist<br><br>Associate Professor<br><a href="https://www.publichealth.pitt.edu/hpm">Health Policy and Management</a><br>School of Public Health<br>University of Pittsburgh'
   location         : "Pittsburgh, PA"
-  employer         : ""
+  employer         : # Name
   uri              : # URL
   email            : # ADD YOUR EMAIL, e.g. "you@pitt.edu"
 
