@@ -22,12 +22,12 @@ repository               : "colemandrake/colemandrake.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # Upload your headshot to /images/ with this exact filename
+  avatar           : "CD_mug.jpg" # Upload your headshot to /images/ with this exact filename
   name             : "Coleman Drake"
   pronouns         : # example: "she/her"  
-  bio              : "Health Economist"
+  bio              : 'Health Economist<br><br>Associate Professor<br><a href="https://www.publichealth.pitt.edu/hpm">Health Policy and Management</a><br>School of Public Health<br>University of Pittsburgh'
   location         : "Pittsburgh, PA"
-  employer         : "University of Pittsburgh"
+  employer         : ""
   uri              : # URL
   email            : # ADD YOUR EMAIL, e.g. "you@pitt.edu"
 
