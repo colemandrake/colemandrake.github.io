@@ -9,9 +9,9 @@ author_profile: true
 
 **Pittsburgh NPR WESA** — [Pittsburghers Face Higher Healthcare Costs in 2027, With Little Relief in Sight](https://www.wesanews.org/health-science-tech/2026-11-19/pittsburgh-healthcare-costs-insurance) <br><small>November 19, 2026</small>
 
-**Newsweek** — [How the Government Shutdown Could Affect Open Enrollment](https://www.newsweek.com/us-government-shutdown-impact-open-enrollment-10840377) <br><small>October 7, 2025</small> <!-- CHECK TITLE: reconstructed from URL -->
+**Newsweek** — [How the Government Shutdown Could Affect Open Enrollment](https://www.newsweek.com/us-government-shutdown-impact-open-enrollment-10840377) <br><small>October 7, 2025</small> 
 
-**The New York Times** — [Vance, Trump and the Affordable Care Act](https://www.nytimes.com/2024/10/02/us/politics/vance-obamacare-trump-aca.html) <br><small>October 2, 2024</small> <!-- CHECK TITLE: reconstructed from URL -->
+**The New York Times** — [Vance, Trump and the Affordable Care Act](https://www.nytimes.com/2024/10/02/us/politics/vance-obamacare-trump-aca.html) <br><small>October 2, 2024</small> <!-- 
 
 **U.S. News & World Report** — [It's Tougher for Non-White Americans to Get Opioid Addiction Drug](https://www.usnews.com/news/health-news/articles/2024-02-20/its-tougher-for-non-white-americans-to-get-opioid-addiction-drug) <br><small>February 20, 2024</small>
 
